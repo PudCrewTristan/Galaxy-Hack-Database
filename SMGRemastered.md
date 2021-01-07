@@ -2,7 +2,7 @@
 ![SMGR Logo](https://cdn.discordapp.com/attachments/789184498989268995/796753611316396062/image0.png)
 ### By: SMGR Team
 
-Super Mario Galaxy: Remastered is a remastered version of the first SUper Mario Galaxy Game where all (but most) of the galaxies are redone and remastered into a Super Mario Galaxy 2 formate
+Super Mario Galaxy: Remastered is a remastered version of the first Super Mario Galaxy Game where all (but most) of the galaxies are redone and remastered into a Super Mario Galaxy 2 format
 
 ### Information
 42 Galaxies<br/>
@@ -11,7 +11,7 @@ Super Mario Galaxy: Remastered is a remastered version of the first SUper Mario 
 Release Date: N/A
 
 ### Credits
-PudvahCrew (Tristan) - Level Designing/Testing
+PudvahCrew (Tristan) - Level Designing/Testing<br/>
 GalaxyMaster - Programer
 
 ### Gallery
